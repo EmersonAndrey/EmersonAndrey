@@ -8,7 +8,10 @@
 
 **Back-end:** Java, Python
 
-**Versionamento** Git, GitHub
+**Versionamento:** Git, GitHub
+
+**Versionamento:** PostgreSQL
+
 
 ## Linkedin
 
