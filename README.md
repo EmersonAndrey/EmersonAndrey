@@ -10,7 +10,7 @@
 
 **Versionamento:** Git, GitHub
 
-**Versionamento:** PostgreSQL
+**Banco de Dados:** PostgreSQL
 
 
 ## Linkedin
