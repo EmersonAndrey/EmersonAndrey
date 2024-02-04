@@ -17,9 +17,10 @@
 </div>        
 <br>
 
-**SGBD:** 
+**SGBD's:** 
 <div style="display: inline">
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />       
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />      
+  <img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div> 
 <br>          
 
